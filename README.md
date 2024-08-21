@@ -99,5 +99,8 @@ I am an IT professional with a focus on software development, currently refining
   </a>
   <a href="https://graphql.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> 
-  </a> 
+  </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
+  </a>
 </p>
