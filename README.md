@@ -10,4 +10,4 @@ I work on software for hardware-integrated systems, with experience in medtech s
 
 ## Core technologies
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,docker,git,linux,postgres,py,sqlite,rust&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,cpp,docker,git,linux,postgres,py,sqlite,rust&perline=9)](https://skillicons.dev)
