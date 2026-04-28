@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Chen Xu</h1>
+<h3 align="center">A Passionate Developer</h3>
 
-<!--
-**chenxu2394/chenxu2394** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=chenxu2394&label=Profile%20views&color=0e75b6&style=flat" alt="chenxu2394" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work on software for hardware-integrated systems, with experience in medtech software, instrument control, and data workflows. My background includes Rust/Tauri application development, Python-based data processing, testing, debugging, documentation, and building reliable software around real-world devices. I am also expanding toward cloud and DevOps, with interest in containers, CI/CD, observability, and infrastructure that supports dependable systems.
+
+## Core technologies
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,docker,git,linux,postgres,py,sqlite,rust&perline=8)](https://skillicons.dev)
