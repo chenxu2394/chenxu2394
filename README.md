@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=chenxu2394&label=Profile%20views&color=0e75b6&style=flat" alt="chenxu2394" />
 </p>
 
-I work on software for hardware-integrated systems, with experience in medtech software, instrument control, and data workflows. My background includes Rust/Tauri application development, Python-based data processing, testing, debugging, documentation, and building reliable software around real-world devices. I am also expanding toward cloud and DevOps, with interest in containers, CI/CD, observability, and infrastructure that supports dependable systems.
+I work on software for systems that connect real-world devices, applications, data workflows, and infrastructure. My background includes hardware-integrated applications, instrument-related software, Rust/Tauri desktop development, Python-based data processing, testing, debugging, and documentation. I am also expanding toward cloud and DevOps, with interest in containers, CI/CD, observability, and infrastructure that supports dependable systems.
 
 ## Core technologies
 
