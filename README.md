@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=chenxu2394&label=Profile%20views&color=0e75b6&style=flat" alt="chenxu2394" />
 </p>
 
-I work on software for systems that connect real-world devices, applications, data workflows, and infrastructure. My background includes hardware-integrated applications, instrument-related software, Rust/Tauri desktop development, Python-based data processing, testing, debugging, and documentation. I am also expanding toward cloud and DevOps, with interest in containers, CI/CD, observability, and infrastructure that supports dependable systems.
+Developer with experience building applications, internal tools, and software that integrates with data, infrastructure, and physical systems. I have worked with Python, TypeScript/JavaScript, Rust, C/C++, SQL, and cloud tooling across backend development, automation, data processing, observability, and system integration. I am interested in areas where I can build reliable and maintainable software solutions.
 
 ## Core technologies
 
