@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Chen Xu</h1>
+<h3 align="center">A Passionate Developer</h3>
 
-<!--
-**chenxu2394/chenxu2394** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="left">
+  <img src="https://profile-counter.chenxu2394.eu.org/api/views?label=Profile%20views&amp;rightColor=0e75b6&amp;style=flat" alt="chenxu2394" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Developer with experience building applications, internal tools, and software that integrates with data, infrastructure, and physical systems. I have worked with Python, TypeScript/JavaScript, Rust, C/C++, SQL, and cloud tooling across backend development, automation, data processing, observability, and system integration. I am interested in areas where I can build reliable and maintainable software solutions.
+
+## Core technologies
+
+[![My Skills](https://skillicons.dev/icons?i=azure,cpp,docker,git,linux,postgres,py,sqlite,rust&perline=9)](https://skillicons.dev)
